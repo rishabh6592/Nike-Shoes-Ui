@@ -98,6 +98,7 @@ html,body{
 }
 #nav h4:hover{
     color: #E1334C;
+    transition: 0.5s;
 }
 #nav h5{
     position: relative;
@@ -118,6 +119,7 @@ html,body{
 }
 #nav>i:hover{
     background-color: black;
+    transition: 0.5s;
 }
 #left{
     height: 100%;
@@ -169,6 +171,7 @@ html,body{
 #left button:hover{
     color: black;
     background-color: #51ABCD;
+    transition: 1s;
 }
 #right{
     height: 100%;
